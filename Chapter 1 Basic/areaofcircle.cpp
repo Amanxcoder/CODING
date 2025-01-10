@@ -3,7 +3,7 @@
 // int main(){
 //     float r = 4.3;
 //     float a= 3.1432*r*r;
-//     cout<<a;
+//     cout<<a
 // }
 // #include<iostream>
 // using namespace std;
