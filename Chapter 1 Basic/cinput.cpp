@@ -4,6 +4,6 @@
 //     int r;
 //     cout<<"Enter the Number : ";
 //     cin>>r;
-//     cout<<"Volume of Cube is   : "; 
+//     cout<<"Volume of Cube is         : "; 
 //     cout<<r*r*r;
 // }
